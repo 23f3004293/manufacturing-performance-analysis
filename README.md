@@ -1,6 +1,5 @@
 # Manufacturing Performance Analysis (2024)
-
-
+# Email: 23f3004293@ds.study.iitm.ac.in
 **Author:** 23f3004293@ds.study.iitm.ac.in  
 
 ## Key Findings
